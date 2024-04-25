@@ -31,7 +31,6 @@ python3.pkgs.buildPythonApplication rec {
     "packageurl-python"
     "packaging"
     "pycep-parser"
-    "rustworkx"
     "termcolor"
   ];
 
